@@ -16,7 +16,7 @@ const routes: Routes = [
   { path: 'forms-reactive-3', component: FormReactiveNestedGroupsComponent },
   { path: 'forms-reactive-4', component: FormReactiveBuilderAndValidationComponent },
   { path: 'forms-reactive-5', component: FormReactiveDynamicComponent },
-  { path: 'forms-template-drive', component: FormTemplateDrivenComponent },
+  { path: 'forms-template-driven', component: FormTemplateDrivenComponent },
 ];
 
 @NgModule({
